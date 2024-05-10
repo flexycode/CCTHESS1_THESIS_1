@@ -1,10 +1,13 @@
 # CCTHESS1_THESIS_1
 
-#### Welcome to the repository for my CCTHESS1_THESIS_1 project! This project is part of my thesis for the subject CCTHESS1 (Computer Science Thesis 1).
+#### Welcome to the repository for my CCTHESS1_THESIS_1 project! This project is part of my thesis for the subject CCTHESS1 (Computer Science Thesis 1). Please do not copy anything from this!!
 
 ## Description
 The CCTHESS1_THESIS_1 project aims to [briefly describe the objective and purpose of your thesis project]. It focuses on [mention the key areas or functionalities your project covers]. The goal of this project is to [explain the expected outcome or contribution of your thesis project].
 
+## Proof-of-Concept
+
+Artificial Intelligence + Decentralized Finance
 
 # Installation 
 ### To run this project locally, please follow these steps:
