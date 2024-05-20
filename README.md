@@ -39,7 +39,7 @@ Artificial Intelligence + Decentralized Finance
 5. Open a pull request on the original repository and provide a clear description of your changes.
 
 # License
-This project is licensed under the [insert license name]. You can find more details in the LICENSE file.
+This project is licensed under the Artificial Ledger. You can find more details in the LICENSE file.
 
 # Contact
 If you have any questions or suggestions regarding this project, feel free to reach out to me at flexyledger@gmail.com
