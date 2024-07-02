@@ -11,7 +11,7 @@ Artificial Intelligence + Decentralized Finance
 
 # 💻 Installation   
 
-### To run this project locally, please follow these steps:
+### 🧰 To run this project locally, please follow these steps:
 
 1. Ensure you have [list any specific software or dependencies required for the project].
 2. Clone this repository to your local machine using the command: git clone [repository URL].
