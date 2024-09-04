@@ -9,7 +9,12 @@ The CCTHESS1_THESIS_1 project aims to [briefly describe the objective and purpos
 
 1. **Artificial Intelligence + Decentralized Finance**
 2. **Decentralized Artificial Intelligence**
-
+3. **Medical Diagnosis**: Develop a model that can diagnose diseases based on patient symptoms, medical images, or genetic data.
+4. **AGI**
+5. **Autonomous Vehicles**: Build a model that can control autonomous vehicles using computer vision, sensor data, and machine learning algorithms.
+6. **Speech Recognition**: Develop a model that can recognize and transcribe spoken language in real-time.
+7. **Robotics**: Create a robot that can perform tasks like object manipulation, navigation, or human-robot interaction using machine learning algorithms.
+8. **Generative Models**: Develop a model that can generate new data (e.g., images, music, text) using generative adversarial networks (GANs) or variational autoencoders (VAEs).
 # 💻 Installation   
 
 ### 🧰 To run this project locally, please follow these steps:
