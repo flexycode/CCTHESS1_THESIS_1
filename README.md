@@ -7,7 +7,8 @@ The CCTHESS1_THESIS_1 project aims to [briefly describe the objective and purpos
 
 ## 💻 Proof-of-Concept
 
-Artificial Intelligence + Decentralized Finance
+1. **Artificial Intelligence + Decentralized Finance**
+2. **Decentralized Artificial Intelligence**
 
 # 💻 Installation   
 
