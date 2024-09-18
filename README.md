@@ -1,4 +1,4 @@
-# CCTHESS1_THESIS_1
+# CCTHESS1 THESIS-1
 
 #### Welcome to the repository for my CCTHESS1_THESIS_1 project! This project is part of my thesis for the subject CCTHESS1 (Computer Science Thesis 1). Please reach out for me first before you steal anything from this repo!!
 
@@ -15,6 +15,7 @@ The CCTHESS1_THESIS_1 project aims to [briefly describe the objective and purpos
 6. **Speech Recognition**: Develop a model that can recognize and transcribe spoken language in real-time.
 7. **Robotics**: Create a robot that can perform tasks like object manipulation, navigation, or human-robot interaction using machine learning algorithms.
 8. **Generative Models**: Develop a model that can generate new data (e.g., images, music, text) using generative adversarial networks (GANs) or variational autoencoders (VAEs).
+
 # 💻 Installation   
 
 ### 🧰 To run this project locally, please follow these steps:
@@ -76,4 +77,5 @@ If you have any questions or suggestions regarding this project, feel free to re
 <br>
 <!-- End point insert background effect line of sight color red -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 
